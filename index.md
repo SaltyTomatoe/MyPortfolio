@@ -32,4 +32,4 @@ I have minimal experience in python, as I had used it for backend web developmen
 [here](https://saltytomatoe.github.io/MyPortfolio/authynwhatever) I explain the authentication process for the backend of my site, and how it was used to generate a somewhat secure client to server authentication platform. 
 
 Other projects such as discord bot development aren't up to the standards I now have for myself, as such they will not be discussed in any further detail.
-For my history of game design, I have dedicated [this](https://coolmathgames.com) page to information about it. I cannot say that I have gotten a good platform of players, but I aim to have a fully functional multiplayer online arcade game by the end of January 2021. Work is already in motion. 
+For my history of game design, I have dedicated [this](https://saltytomatoe.github.io/MyPortfolio/roblox)) page to information about it. I cannot say that I have gotten a good platform of players, but I aim to have a fully functional multiplayer online arcade game by the end of January 2021. Work is already in motion. 
